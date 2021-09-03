@@ -1,0 +1,23 @@
+body {
+
+    color: #f7f7f7;
+  }
+
+.jumbotron {
+    background-image: url("./images/nasa.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
+button{
+  /*Change the width as much as you like, but make sure 
+  margin-left and margin-right + width = 100%*/
+  width:100%;
+  /*margin-left:10%;
+  margin-right:10%;*/
+}
+li {
+  /*Remove bullets from list*/
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
