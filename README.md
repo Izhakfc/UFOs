@@ -8,6 +8,7 @@ In order to display the **UFOs sightings** data, a web page was developed includ
 * State
 * Country
 * Shape
+
 These criterions where placed in the left side of the web page, in order to use them the user needs to write the input to filter the table of sightings on the right, an example of how to write an input of each criterion is shown by a placeholder that gives an example of how to place the parameter. After the user finishes writing in the white box, the table will automatically change, displaying the sightings that fulfill the parameters that the user gave.
 ## Summary: 
 One of the drawbacks of this design is that the user may not know all of the parameter options he has to filter the table of sightings, since there is only one placeholder that gives an example of the format, but it doesn't show options that are not as intuitive, such as the shape of a UFO, so it will be a good idea to replace the white box with an option selector that shows the possible options that the user has.
